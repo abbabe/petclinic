@@ -749,7 +749,7 @@ git push --set-upstream origin feature/msp-11
 ```
 
 * Update POM file at root folder for Code Coverage Report using `Jacoco` tool plugin.
-
+pom.xml nin 87. satırından sonrasına ekliyoruz.
 ``` xml
 <plugin>
     <groupId>org.jacoco</groupId>
